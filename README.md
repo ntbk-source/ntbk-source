@@ -13,15 +13,15 @@
 
 ## Languages and Tools  
 <div align="center">
-  <img src="https://i.ibb.co/NZS5Q4F/express.png" alt="express" height="25" style="margin: 10px" />
-  <img src="https://i.ibb.co/5cFJqJQ/js.png" alt="js" height="25" style="margin: 10px" />
-  <img src="https://i.ibb.co/RSDWRM7/laravel.png" alt="laravel" height="25" style="margin: 10px" />
-  <img src="https://i.ibb.co/Wt5z0wd/mongodb.png" alt="mongodb" height="25" style="margin: 10px" />
-  <img src="https://i.ibb.co/gmFqTZ9/mysql.png" alt="mysql" height="25" style="margin: 10px" />
-  <img src="https://i.ibb.co/DLS3fqk/nextjs.png" alt="nextjs" height="25" style="margin: 10px" />
-  <img src="https://i.ibb.co/4ZY2nkp/nodejs.png" alt="nodejs" height="25" style="margin: 10px" />
-  <img src="https://i.ibb.co/wwLVS6f/php.png" alt="php" height="25" style="margin: 10px" />
-  <img src="https://i.ibb.co/RTYVM3Y/vuejs.png" alt="vuejs" height="25" style="margin: 10px" />
+  <img src="https://i.ibb.co/NZS5Q4F/express.png" alt="express" height="50" style="margin: 10px;" />
+  <img src="https://i.ibb.co/5cFJqJQ/js.png" alt="js" height="50" style="margin: 10px;" />
+  <img src="https://i.ibb.co/RSDWRM7/laravel.png" alt="laravel" height="50" style="margin: 10px;" />
+  <img src="https://i.ibb.co/Wt5z0wd/mongodb.png" alt="mongodb" height="50" style="margin: 10px;" />
+  <img src="https://i.ibb.co/gmFqTZ9/mysql.png" alt="mysql" height="50" style="margin: 10px;" />
+  <img src="https://i.ibb.co/DLS3fqk/nextjs.png" alt="nextjs" height="50" style="margin: 10px;" />
+  <img src="https://i.ibb.co/4ZY2nkp/nodejs.png" alt="nodejs" height="50" style="margin: 10px;" />
+  <img src="https://i.ibb.co/wwLVS6f/php.png" alt="php" height="50" style="margin: 10px;" />
+  <img src="https://i.ibb.co/RTYVM3Y/vuejs.png" alt="vuejs" height="50" style="margin: 10px;" />
 </div>  
 
 <br/>  
